@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-  question.innerHTML = "Kocham Cię! 😘";
+  question.innerHTML = "I love you! To confirm valentines please proceed to unfollow 😘";
   gif.src =
     "https://www.icegif.com/wp-content/uploads/love-hug-icegif.gif";
 });
